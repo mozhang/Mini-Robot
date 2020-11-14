@@ -1,0 +1,2 @@
+min_node:my_minimal_nodes:simulation
+-DCATKIN_DEVEL_PREFIX=/opt/ros/noetic/ros_ws/devel -DCMAKE_INSTALL_PREFIX=/opt/ros/noetic/ros_ws/install -G Unix Makefiles
